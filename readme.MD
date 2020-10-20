@@ -18,7 +18,7 @@ First of all, you can check your version using this URL `xxx.com/version` you wi
 <img width="1280" alt="version" src="https://raw.githubusercontent.com/michmich1000/EasyVista/master/version.png">
 
 
-After that, you can give this request to sqlmap (`sqlmap -r theRequestFile.txt`)
+After that, you can give this request to sqlmap (`sqlmap -r theRequestFile.txt -p rqt_id`)
 
 
 ```
