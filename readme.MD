@@ -2,14 +2,14 @@
 
 ## easyvista 2018.1.185.5 - CVE-XXX 
 
-* Description : SQL injection vulnerability allow via the rqt_id parameter
+* Description : SQL injection vulnerability via the rqt_id parameter
 * Affected version : 2018.1.185.5
 
 ### Information
 
 To make this PoC, I just installed the sofware (`https://www.easyvista.com/`)
 
-* Vulnerability Type : SQL injection (Authenticated)
+* Vulnerability Type : Authenticated SQL injection (Boolean-based or Time-based)
 
 ### POC 
 
