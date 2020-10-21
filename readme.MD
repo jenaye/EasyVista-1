@@ -1,6 +1,6 @@
 # EasyVista
 
-## easyvista 2018.1.185.5 - CVE-XXX 
+## easyvista 2018.1.185.5 - CVE-2020-27357 
 
 * Description : SQL injection vulnerability via the rqt_id parameter
 * Affected version : 2018.1.185.5
